@@ -7,4 +7,5 @@ def home():
 def resign():
     return render_template('regform.html')
 if __name__ == '__main__':
+    
     new.run()
